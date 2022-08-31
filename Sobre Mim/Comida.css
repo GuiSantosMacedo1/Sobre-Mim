@@ -83,3 +83,54 @@ border-radius: 15px;
 .menu1 li a:hover{
     background-color: rgba(100,100,100,0.5);
 }
+body{
+    background-color: #3fd6b6;
+}
+
+.txtinicio{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+.Imagens{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.txtgosto{
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    gap: 6px;
+    text-decoration: none;
+}
+
+.txtinicio2{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.Imagens2{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links1{
+    display: flex;
+    justify-content: space-around;
+    gap: 6px;
+    text-decoration: none;
+}
+
+.txtgosto1{
+    display: flex;
+    justify-content: space-around;
+}

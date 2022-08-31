@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
+    text-align: center;
 }
 header{
     width: 100%;
@@ -33,6 +34,7 @@ header{
 .logo-texto li a:hover{
     background-color: rgba(100,100,100,0.5);
 }
+
 .menu li{
     display: inline-block;
     margin: 0 15px;
@@ -51,6 +53,28 @@ border-radius: 15px;
 body{
     background-color: #3fd6b6;
 }
+.Fonte{
+    display: flex ;
+    justify-content: center;
+    padding: 15px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.Ingredientes{
+    display: flex ;
+    justify-content: center;
+    padding: 15px;
+}
 
+.modo_de_fazer{
+    display: inline ;
+    justify-content: center;
+    padding: 10px;
+}
 
-
+p{
+    padding: 5px;
+}
