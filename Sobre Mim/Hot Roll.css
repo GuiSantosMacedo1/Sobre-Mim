@@ -53,28 +53,29 @@ body{
     background-color: #3fd6b6;
 }
 
-.Fonte{
-    display: flex ;
-    justify-content: center;
-    padding: 15px;
+.Receita{
+    padding: 20px;
 }
-.img{
-    display: flex;
-    justify-content: center;
-    padding: 15px;
+
+.Começo{
+    padding: 13px;
 }
 .Ingredientes{
-    display: flex ;
-    justify-content: center;
-    padding: 15px;
+padding: 20px;
 }
 
 .modo_de_fazer{
     display: inline ;
     justify-content: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+p{
     padding: 10px;
 }
 
 h2{
-    padding: 10px;
+    font-style: italic;
+    font-size: 35px;
 }

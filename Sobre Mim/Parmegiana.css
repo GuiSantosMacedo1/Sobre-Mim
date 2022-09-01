@@ -34,7 +34,6 @@ header{
 .logo-texto li a:hover{
     background-color: rgba(100,100,100,0.5);
 }
-
 .menu li{
     display: inline-block;
     margin: 0 15px;
@@ -49,6 +48,9 @@ border-radius: 15px;
 }
 .menu li a:hover{
     background-color: rgba(100,100,100,0.5);
+}
+body{
+    background-color: #3fd6b6;
 }
 body{
     background-color: #3fd6b6;

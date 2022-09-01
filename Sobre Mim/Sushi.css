@@ -52,29 +52,17 @@ border-radius: 15px;
 body{
     background-color: #3fd6b6;
 }
-
-.Fonte{
-    display: flex ;
-    justify-content: center;
-    padding: 15px;
-}
-.img{
-    display: flex;
-    justify-content: center;
-    padding: 15px;
-}
-.Ingredientes{
-    display: flex ;
-    justify-content: center;
-    padding: 15px;
-}
-
-.modo_de_fazer{
-    display: inline ;
-    justify-content: center;
-    padding: 10px;
+.Receita{
+    padding: 20px;
 }
 
 h2{
+    font-style: italic;
+    font-size: 35px;
+}
+h1{
     padding: 10px;
+}
+h3{
+    padding: 15px;
 }
