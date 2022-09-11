@@ -6,7 +6,7 @@
 }
 header{
     width: 100%;
-    background-color: #00f7ff;
+    background-color: #72172e;
     display: flex;
     justify-content: space-around;
     align-items:center;
@@ -19,13 +19,13 @@ header{
 }
 .logo-texto{
     margin-left: 20px;
-    color: #272b34;
+    color: #fffaf2;
 }
 
 .logo-texto li a{
     font-size: 24px;
     text-decoration: none;
-    color: #272b34;
+    color: #fffaf2;
     text-transform: uppercase;
     padding: 10px 25px;
     border-radius: 15px;
@@ -40,7 +40,7 @@ header{
 .menu li a{
 font-size: 20px;
 text-decoration: none;
-color: #272b34;
+color: #fffaf2;
 text-transform: uppercase;
 padding: 10px 25px;
 border-radius: 15px;
@@ -49,8 +49,33 @@ border-radius: 15px;
     background-color: rgba(100,100,100,0.5);
 }
 body{
-    background-color: #3fd6b6;
+    background-color: #005bc3;
+}
+.comeco{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
 }
 
+.visita{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.visita²{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
 
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
 
+.links²{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}

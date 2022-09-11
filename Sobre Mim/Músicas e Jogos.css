@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    text-align: center;
 }
 header{
     width: 100%;
@@ -52,14 +51,70 @@ border-radius: 15px;
 body{
     background-color: #005bc3;
 }
-.Receita{
-    padding: 20px;
+
+.v1{
+    display: flex;
+    justify-content: center;
 }
 
-h2{
-    font-style: italic;
-    font-size: 35px;
+.v2{
+    display: flex;
+    justify-content: center;
 }
-h3{
-    padding: 15px;
+.v3{
+    display: flex;
+    justify-content: center;
+}
+.v4{
+    display: flex;
+    justify-content: center;
+}
+.v5{
+    display: flex;
+    justify-content: center;
+}
+.v6{
+    display: flex;
+    justify-content: center;
+}
+.v7{
+    display: flex;
+    justify-content: center;
+}
+.v8{
+    display: flex;
+    justify-content: center;
+}
+
+.Praia{
+    display: flex;
+    justify-content: center;
+}
+.Site{
+    display: flex;
+    justify-content: center;
+}
+.Jogo{
+    display: flex;
+    justify-content: center;
+}
+.Notas{
+    display: flex;
+    justify-content: center;
+}
+.Urso{
+    display: flex;
+    justify-content: center;
+}
+.Conselho{
+    display: flex;
+    justify-content: center;
+}
+.Tentar{
+    display: flex;
+    justify-content: center;
+}
+.Sair{
+    display: flex;
+    justify-content: center;
 }
